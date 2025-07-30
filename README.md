@@ -39,8 +39,4 @@ This project transforms raw emergency room data into actionable insights. It inc
 
 ---
 
-## 📈 Use Cases
-- Showcasing Excel skills on resumes/portfolios  
-- Learning pivot table dashboards step-by-step  
-- Applying analytics to healthcare data scenarios
 
